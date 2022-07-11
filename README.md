@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi dears 👋
 
 <!--
 **sureshkajan/sureshkajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
